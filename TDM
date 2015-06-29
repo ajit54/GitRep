@@ -1,0 +1,8 @@
+Test Data Management
+
+Test Data Management consists of managing the provisioning of required test data efficiently and effectively, while at the same time ensuring compliance to regulatory and organizational standards.
+It provides integrated sensitive data discovery, business classification, and policy-driven data masking for de-identification and safe use of production data used in test and development environments. TDM can be deployed on premises, in the cloud, and via hybrid cloud configurations.
+•	TDM creates targeted, "right-sized" subsets faster and more efficiently than cloning.
+•	Easily refresh, rest and maintain test environments.
+•	Compare data to pinpoint and resolve application defects faster
+•	Accelerate release schedule.

@@ -1,0 +1,16 @@
++1. What is CD (Continuous delivery)?
+2. What is CI (Continuous integrations)?
+3. Diff between CD and CI?
+…4. can you demonstrate CD and CI using CI tools, Source control?
+5. Why do you require Jenkins?
+6. Different plugins for Jenkins?
+7. How do you install Jenkins?
+8. How do you install plugins?
+…9. How do you integrate Source control and Nolio?
+10. Can you explain end-to-end deployments?
+…11. How can you confirm that deployment is completed to achieve CD along with smoke test?
+12. Name few plugins in Jenkins?
+….13. Explain post deployments steps in Jenkins?
+…14. How do you trigger 2 nolio processes which are dependent on one another from Jenkins?
+15. What is agile environment?
+16. How do you schedules builds?
